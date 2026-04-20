@@ -45,8 +45,8 @@ from db import (
 
 from rag.rag_page import render_rag_page
 
-APP_USERNAME = "uab"
-APP_PASSWORD = "demo2026"
+APP_USERNAME = ""
+APP_PASSWORD = ""
 
 st.set_page_config(
     page_title="UAb Pedagogical Analytics",

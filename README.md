@@ -76,12 +76,7 @@ Sistema baseado em LLM que permite:
 
 ## 🔐 Acesso à Aplicação
 
-A aplicação encontra-se protegida por autenticação simples (para fins de demonstração):
-
-- **Utilizador:** `uab`  
-- **Palavra-passe:** `demo2026`  
-
-> ⚠️ Nota: Trata-se de um mecanismo básico de proteção, adequado a um protótipo demonstrativo.
+A aplicação encontra-se protegida por autenticação simples (para fins de demonstração). As credenciais encontram-se no CV e no projeto pedagógico do candidato.
 
 ---
 
