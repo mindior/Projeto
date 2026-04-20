@@ -1,8 +1,10 @@
 streamlit>=1.36
 google-genai>=0.3.0
 sentence-transformers>=3.0.0
-faiss-cpu>=1.8.0
+faiss-cpu==1.7.4
 pypdf>=4.2.0
-numpy>=1.26.0
+numpy<2
 plotly>=5.0.0
-torchvision>=0.18.0
+torch>=2.0.0
+pandas>=2.0.0
+python-dotenv
