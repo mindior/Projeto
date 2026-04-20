@@ -76,7 +76,10 @@ Sistema baseado em LLM que permite:
 
 ## 🔐 Acesso à Aplicação
 
-A aplicação encontra-se protegida por autenticação simples (para fins de demonstração). As credenciais encontram-se no CV e no projeto pedagógico do candidato.
+A aplicação encontra-se protegida por autenticação simples (para fins de demonstração). 
+As credenciais são:
+ utilizador: uab
+ palavra-passe: demo2026
 
 ---
 
