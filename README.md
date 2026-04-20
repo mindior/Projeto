@@ -74,6 +74,16 @@ Sistema baseado em LLM que permite:
 
 ---
 
+## 🌐 Demonstração
+
+A aplicação encontra-se disponível online:
+
+👉 https://[projeto-i0fd.onrender.com](https://projeto-i0fd.onrender.com)/
+
+> ⚠️ Nota: A aplicação pode demorar alguns segundos a iniciar caso esteja em modo de repouso.
+
+---
+
 ## 🔐 Acesso à Aplicação
 
 A aplicação encontra-se protegida por autenticação simples (para fins de demonstração). 
@@ -147,15 +157,6 @@ Esta flexibilidade é fundamental para:
 
 ---
 
-## 🌐 Demonstração
-
-A aplicação encontra-se disponível online:
-
-👉 https://mindioruab.streamlit.app/
-
-> ⚠️ Nota: A aplicação pode demorar alguns segundos a iniciar caso esteja em modo de repouso.
-
----
 
 ## 🎓 Proposta Pedagógica
 
